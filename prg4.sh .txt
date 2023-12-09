@@ -1,5 +1,4 @@
 vi prg4.sh 
-
 #!/bin/bash
 #Demonstrating command substitution
 echo "I am `whoami`"
