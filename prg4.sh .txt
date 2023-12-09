@@ -1,4 +1,4 @@
-vi prg4.sh 
+mahesh is here line on script 
 #!/bin/bash
 #Demonstrating command substitution
 echo "I am `whoami`"
